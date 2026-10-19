@@ -4,6 +4,8 @@ Homebrew tap for the **pet suite** — free, open-source macOS utilities.
 
 ```sh
 brew tap hieuspaceos/suite
+brew trust hieuspaceos/suite        # one-time — Homebrew guards non-core taps
+
 brew install --cask swiftshot    # CleanShot X alternative — screenshots + annotate
 brew install --cask clipspot     # Paste alternative — clipboard manager
 brew install --cask swishlite    # Swish alternative — trackpad window gestures
