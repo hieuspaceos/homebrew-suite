@@ -1,6 +1,6 @@
 cask "swiftshot" do
-  version "1.0.1"
-  sha256 "d43fe5127742a7d29efa7e45234777ec027e6e0854d9c34f78c52d0337179fd2"
+  version "1.0.2"
+  sha256 "9527bede6871064cf857fef663144af85a6ade9deced6f76ed8c96bc79a9c23b"
 
   url "https://github.com/hieuspaceos/swiftshot/releases/download/v#{version}/SwiftShot.dmg"
   name "SwiftShot"
