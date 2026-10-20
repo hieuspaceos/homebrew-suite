@@ -1,6 +1,6 @@
 cask "swishlite" do
-  version "1.0.4"
-  sha256 "07f7e380a32f92689e55e6faa7a70b64e4a330ec620fd3e347446e002af72184"
+  version "1.0.5"
+  sha256 "2db1a047df8ab09e59b0d5701dae76667f23c06ceeac0dbad374a2035d46dce7"
 
   url "https://github.com/hieuspaceos/swishlite/releases/download/v#{version}/SwishLite.dmg"
   name "SwishLite"
