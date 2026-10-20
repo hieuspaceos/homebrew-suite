@@ -1,6 +1,6 @@
 cask "clipspot" do
-  version "1.0.1"
-  sha256 "7dc03419849f9a6d50ed89751b556d9d1873e6b23303da98dfdfd894153912bb"
+  version "1.0.2"
+  sha256 "eabb73a35ba4f59295c1b7f9ba99441aa633c989b0d205b8c658d6a73a2dfe8e"
 
   url "https://github.com/hieuspaceos/clipspot/releases/download/v#{version}/ClipSpot.dmg"
   name "ClipSpot"

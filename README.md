@@ -15,5 +15,5 @@ brew install --cask flipswitch   # One Switch alternative — menubar toggles
 All binaries are **built by GitHub Actions** from the tagged source — see each
 repo's Releases page for the workflow-run link and `*.sha256` file.
 
-Ad-hoc signed (no Apple Developer cert yet): on first launch, right-click the
-app → **Open** → confirm.
+All binaries are **Developer ID signed + Apple notarized** — installs open
+with no Gatekeeper warning, no right-click workaround needed.
