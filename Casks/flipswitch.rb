@@ -1,6 +1,6 @@
 cask "flipswitch" do
-  version "1.0.1"
-  sha256 "92afaf5c881b112df2df9ca003cc50ca9aed82d7143f1d9322738f819dc5a639"
+  version "1.0.2"
+  sha256 "dd1fe72478db01dd439589b7f86890bc241b752044e173a350b4c8e3ffb5d43b"
 
   url "https://github.com/hieuspaceos/flipswitch/releases/download/v#{version}/flipswitch.dmg"
   name "flipswitch"
